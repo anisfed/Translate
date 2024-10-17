@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">A user-friendly web application for translating text between different languages.</p>
+<p align="left">
+  A user-friendly web application for translating text between different languages. 
+  visit:<a href="https://anisfed.github.io/Translate/" target="_blank">demo version</a>.
+</p>
 
 ###
 
